@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/imasutosh1" target="blank"><img src="https://img.shields.io/twitter/follow/imasutosh1?logo=twitter&style=for-the-badge" alt="imasutosh1" /></a> </p>
 
-- 🔭 I’m currently working on **Penetration Testing of Web Applications**
+- 🔭 I’m currently working on **Burpsuite**
 
 - 🌱 I’m currently learning **Offensive Security**
+
+- ☠️ I'm also in the learning process of **Building my own Operating system**
 
 - 📫 How to reach me **asutoshurs@gmail.com**
 
