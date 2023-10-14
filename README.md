@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asutosh</h1>
-<h2 align="center">B.E Computer Science and Engineering</h2>
-<h3 align="center">A passionate Cybersecurity Engineer and soon to be Ethical Hacker from India</h3>
+<h3 align="center">A passionate Cybersecurity Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asvt0sh&label=Profile%20views&color=0e75b6&style=flat" alt="asvt0sh" /> </p>
 
