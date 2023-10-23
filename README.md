@@ -19,7 +19,10 @@
 </p>
 
 <h3 align="left">Security Experience:</h3>
-<p align="left"> <script src="https://tryhackme.com/badge/2367825"></script>
+<p align="left"> 
+<script src="https://tryhackme.com/badge/2367825">
+
+</script>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
