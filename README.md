@@ -7,19 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/imasutosh1" target="blank"><img src="https://img.shields.io/twitter/follow/imasutosh1?logo=twitter&style=for-the-badge" alt="imasutosh1" /></a> </p>
 
-- 🔭 I’m currently working on **Vulnerability assessment using Burpsuite**
-
-- 🌱 I’m currently learning **Offensive Security**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **asutoshurs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imasutosh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imasutosh1" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Security Experience (Updated every weekend)</h3>
-<p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/asut0sh.png" alt="TryHackMe">
+
+<h3 align="left">Security Experience</h3>
 <p align="left"> PicoCTF username: raumdeuter</p>
 </p>
 <p align="left">HackTheBox CTF username: raumdeuter</p>
@@ -29,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asvt0sh&show_icons=true&locale=en&layout=compact" alt="asvt0sh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asvt0sh&show_icons=true&locale=en" alt="asvt0sh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asvt0sh&" alt="asvt0sh" /></p>
+
+
