@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asutosh</h1>
-<h3 align="center">A passionate Cybersecurity Engineer/ Software Engineer from India</h3>
+<h3 align="center">A passionate Computer Science Engineer from India and I like learning new things even if it isn't from my domain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asvt0sh&label=Profile%20views&color=0e75b6&style=flat" alt="asvt0sh" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/imasutosh1" target="blank"><img src="https://img.shields.io/twitter/follow/imasutosh1?logo=twitter&style=for-the-badge" alt="imasutosh1" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Finance**
 
-- 📫 How to reach me **asutoshurs@gmail.com**
+- 📫 How to reach me **whitehammer69420@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 
